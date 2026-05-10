@@ -68,6 +68,7 @@ If you want a tight orchestrated flow without overcomplicating it:
 - [conductor](https://www.conductor.build/)
 - [beads](https://github.com/steveyegge/beads)
 - [claude-mem](https://github.com/thedotmack/claude-mem)
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Best Practices
 
